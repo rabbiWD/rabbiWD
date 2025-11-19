@@ -1,4 +1,5 @@
 ## Hi there 👋
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -7,6 +8,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<p align="center">
+  <img src="https://i.ibb.co/Y3F6Px4/github-banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Rabbi Khan 👋</h1>
+<h3 align="center">MERN Stack Developer | Frontend Developer | React & Next.js Enthusiast</h3>
 
 
 
