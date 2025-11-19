@@ -143,3 +143,28 @@ npm run dev
 🔗 Server Repository:
  https://github.com/rabbiWD/Finance-Management-Apps-Server
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Contribution & Stats
+
+<div align="center">
+
+## 🔥 Contribution Streak
+<a href="https://github.com/rabbiWD">
+  <img src="https://streak-stats.demolab.com?user=rabbiWD&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
+
+---
+
+## 📈 Overall GitHub Stats
+<a href="https://github.com/rabbiWD">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbiWD&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</a>
+
+---
+
+## 🧩 Most Used Languages
+<a href="https://github.com/rabbiWD">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbiWD&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</a>
+
+</div>
+
