@@ -5,21 +5,20 @@
 </p>
 
 <h1 align="center">Hi, I'm Rabbi Khan 👋</h1>
-<h3 align="center">MERN Stack Developer | Frontend Developer | React, Express.js & MongoDB Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Frontend Developer | React, Next.js, TypeScript, Express.js, MongoDB, PostgreSQL, & Prisma Enthusiast</h3>
 
-## 👨‍💻 About Me
-I'm a passionate MERN Stack Developer who loves creating modern, scalable and user-friendly web applications.  
+##  About Me
+I'm a passionate Full Stack Developer who loves creating modern, scalable and user-friendly web applications.  
 I enjoy exploring new technologies and building real-world projects.  
-Currently sharpening my skills in **React.js**, **Express.js**, **JWT Authentication**, and **API Integration**.
+Currently sharpening my skills in **Next.js**, **Express.js**, **JWT Authentication**, **PostgreSQL**, **Prisma ORM** and **API Integration**.
 
-### 🔥 Current Activities
-- 🔭 Working on a **ZapShift website** project  
-- 🌱 Exploring **Next.js & server-side rendering**  
-- ⚙️ Improving backend skills with **Express + MongoDB**  
-- 🚀 Experimenting with **Framer Motion animations**  
+###  Current Activities
+-  Working on a **Prisma Press Blog** project  
+-  Exploring **server-side rendering**  
+-  Improving backend skills with **Express + PostgreSQL + Prisma**   
 
 
-## 🌐 Connect with me:
+##  Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abir.khan.rabby.589376) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbikhan19) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RabbiKhan127183) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rabbykhan7993) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Krabby2244@gmail.com) 
 
 # 💻 Tech Stack:
